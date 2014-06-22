@@ -1,9 +1,3 @@
-CSE 5311       Plagiarism Checker                           	Fall 2013
-
-Members: 		Sumanth Lakshminarayana(1000830230)
-				Prathiba Ramachandramurthy(1000915823)
-				Praveen Kumar Tripathi(1000803086)
-
 Operating System: 	Windows
 Tool:        Eclipse
 Language: 		Java
